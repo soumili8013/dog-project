@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif
+}
+header{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 25px 0!important;
+    
+}
+.nav-link {
+    color: #fff !important;
+    font-size: 1.3em !important;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin: 10px 15px;
+}
+.navbar-brand{
+    font-size: 38px !important;
+    color: #fff !important;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.navbar-nav a{
+    padding-left: 5%;
+}
+/* banner */
+
+.banner{
+    margin-top: 5%;
+}
+.left h2{
+    font-size: 40px;
+    margin-left: 28px;
+}
+
+
+.right > img{
+   width: 42%;
+   transform: rotate(20deg);
+   margin-left: 100px;
+   margin-top: 27px;
+   padding-bottom: 25px;
+}
+.btn-lg{
+    background-color: black !important;
+}
+.btn-lgt{
+    background-color: #ff4c68 !important;
+}
+.btn-lgt:hover{
+    background-color: #fff !important;
+    color:#ff4c68 !important;
+}
+.btn{
+    margin-top: 30px;
+    margin-left: 3%;
+    padding: 2% 4% !important;
+}
+
+/* Easy to use. */
+
+.easy{
+    margin-top: 5%;
+}
+.mdl-cn{
+
+line-height: 2;
+text-align: center;
+padding: 5%;
+
+}
+.fa-clr{
+    color: #ff4c68;
+}
+.col h3{
+    font-size: 30px;
+}
+.col p{
+    font-size: 20px;
+}
+
+.para-pricing{
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+/* dog-testimonials */
+
+
+.dog-testimonials{
+    background-color: #ee7b7b!important;
+    text-align: center;
+    margin-top: 5%;
+}
+.carousel-item h2{
+    text-align: center;
+    padding: 3% 20%;
+    line-height: 1.7;
+    color: #fff;
+}
+
+.testimonial-img{
+    border-radius: 50%;
+    width: 12%;
+    margin-bottom: 10%;
+}
+.carousel-item em{
+    color: #fff;
+    padding-left: 15px;
+}
+
+.sponcer img{
+    width: 75%;
+    margin-top: 25%;
+    margin-bottom: 15%;
+}
+
+
+/*  A Plan for Every Dog's Needs */
+
+.dog-need{
+    text-align: center;
+    margin-top: 5%;
+}
+.need-box{
+    border: 2px solid #8a8a8a;
+}
+.card-body h2{
+    padding: 10px 0;
+    font-weight: 700;
+}
+.dog-need h4{
+    color: #8a8a8a;
+    font-size: 25px;
+    padding-top: 15px;
+
+}
+.card-body p{
+    font-weight: 500;
+    color: #8f8f8f;
+}
+.row-card{
+    margin-top: 5% !important;
+}
+
+.card-header{
+font-size: 25px;
+font-weight: 900;
+}
+
+
+
+/*  */
+
+.dog-ft{
+    background-color: #fff2f4;
+    padding: 2% 0;
+    margin-top: 5%;
+}
+
+.btn-downld {
+    padding: 10px 20px !important;
+}
+
+.dog-ft p{
+    color: #8a8a8a;
+    padding-top: 2%;
+}
